@@ -1,0 +1,43 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: bold;
+  color: #6A0794;
+  }
+body { 
+ background: url('../images/1.jpg');
+ background-size: 100%;
+ background-repeat: no-repeat;
+}
+#slogan {
+  font-style: italic;
+}
+p {
+  font-family: Arial;
+  font-size: 12px
+  font-style: normal;
+}
+li {
+  font-family: Arial;
+  font-size: 12px;
+}
+#bottom {
+  font-family: Arial;
+  font-size: 12px;
+  font-style: italic;
+}
+#contact {
+  font-family: Arial;
+  font-size: 12px;
+  font-style: normal;
+}
+nav a {
+  margin-right: 20px;
+  color: #6A0794
+}
+a {
+  font-family: Arial;
+  color: 6A0794;
+  text-decoration: none;
+}
