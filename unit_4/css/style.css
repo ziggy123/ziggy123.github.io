@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body { 
+ background: url('../images/1.jpg');
+ background-size: 100%;
+ background-repeat: no-repeat;
+ font-family: 'Source Sans Pro', sans-serif;
+ font-size: 18px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive, Helvetica;
+  font-size: 2em;
+  font-style: normal;
+  font-weight: bold;
+  color: #6A0794;
+  letter-spacing: 2px;
+  }
+
+#slogan {
+  font-family: 'Pacifico', cursive, Helvetica;
+  color: #6A0794;
+  font-size: .75em;
+  letter-spacing: 1px;
+}
+
+.navlinks {
+  margin-right: 18px;
+  color: black;
+}
+
+p {
+  font-style: normal;
+}
+
+#products {
+  font-family: 'Pacifico', cursive, Helvetica;
+  letter-spacing: 1px;
+}
+
+li {
+  font-style: normal;
+}
+
+#bottom {
+  font-size: .75em;
+  font-style: italic;
+}
+
+#contact {
+  font-size: .75em;
+  font-style: normal;
+}
+
+a {
+  color: 6A0794;
+  text-decoration: none;
+}
